@@ -1,6 +1,3 @@
 - 👋 Hi, I'm @Yuanxyyds
-- 🔭 I’m currently working on Cloud and Mobile App developer Co-op at Johnson Controls
-- 🌱 I’m currently learning Computer Science & Data Science in UofT
-- 🤔 My personal website: liustev6.ca
+- 🔭 My personal website: liustev6.ca
 - 📫 Reach me at: liuhongyuan2001@gmail.com
-- ⚡ Fun fact: I love ChatGpt
