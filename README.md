@@ -1,3 +1,3 @@
 - 👋 Hi, I'm @Yuanxyyds
-- 🔭 My personal website: liustev6.ca
+- 🔭 My personal website: https://liustev6.ca
 - 📫 Reach me at: liuhongyuan2001@gmail.com
