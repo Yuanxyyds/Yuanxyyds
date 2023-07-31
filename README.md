@@ -1,6 +1,6 @@
 # Hi 👋, I'm @Yuanxyyds
 
-- 🔭 My personal website [liustev6.ca](liustev6.ca)
+- 🔭 My personal website [liustev6.ca](https://liustev6.ca)
 
 - 📫 How to reach me **liuhongyuan2001@gmail.com**
 
