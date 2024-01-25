@@ -1,9 +1,9 @@
 # Hi 👋, I'm @Yuanxyyds
 
-- 🔭 My personal website [liustev6.ca](https://liustev6.ca)
 
-- 📫 How to reach me **liuhongyuan2001@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hongyuan-steven-liu/) [![Personal Website](https://img.shields.io/badge/Personal_Website-black?logo=vercel)](https://liustev6.ca) ![liuhongyuan2001@gmail.com](https://img.shields.io/badge/liuhongyuan2001%40gmail.com-white?logo=gmail)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yuanxyyds&theme=halloween&card_width=496)](https://git.io/streak-stats)
 
 ## Programing Languages 🥇
 
